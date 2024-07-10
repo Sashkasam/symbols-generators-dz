@@ -1,3 +1,4 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/x0iarlqy26s4rt4v?svg=true)](https://ci.appveyor.com/project/Sashkasam/symbols-generators-dz)
 # Домашнее задание к лекции «Символы, итераторы, генераторы»
 
 **Важно**: каждая задача выполняется в виде отдельного проекта с собственным GitHub репозиторием.
