@@ -3,7 +3,6 @@
   "version": "1.0.0",
   "description": "**Важно**: каждая задача выполняется в виде отдельного проекта с собственным GitHub репозиторием.",
   "main": "index.js",
-  "type": "module",
   "scripts": {
     "test": "jest",
     "lint": "eslint .",
